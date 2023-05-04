@@ -20,3 +20,11 @@ npm run build --report
 
 如果想详细了解如何操作，请查看 [指南](http://vuejs-templates.github.io/webpack/) 和 [vue-loader 的文档](http://vuejs.github.io/vue-loader)。
 
+## 网页效果图如下
+
+### 1 “扶贫视界”部分
+![A-0-1](https://user-images.githubusercontent.com/119836538/236263406-948ce7f8-8ead-48e0-aa07-707a43b767ec.png)
+![A-3-6](https://user-images.githubusercontent.com/119836538/236264170-32a4aeed-6d89-4c73-a61e-1ac5a9ef8ffd.png)
+### 2 防返贫帮扶部分
+![B-2-8](https://user-images.githubusercontent.com/119836538/236264419-08d39f4f-3cef-48ae-9745-d3b67c645a6e.png)
+![C-0-1](https://user-images.githubusercontent.com/119836538/236264435-db7be855-f325-4f9f-b6dc-fa58869e1024.png)
