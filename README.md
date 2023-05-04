@@ -2,20 +2,21 @@
 
 > A Vue.js project
 
-## Build Setup
+## 环境配置及训练脚本
 
 ``` bash
-# install dependencies
+# 安装项目的依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+# 以热加载模式运行项目，你可以在浏览器中通过 `localhost:8080` 访问到它。
 npm run dev
 
-# build for production with minification
+# 将项目构建为 production package，并压缩代码。
 npm run build
 
-# build for production and view the bundle analyzer report
+# 构建项目并在浏览器中查看文件大小分析报告。
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+如果想详细了解如何操作，请查看 [指南](http://vuejs-templates.github.io/webpack/) 和 [vue-loader 的文档](http://vuejs.github.io/vue-loader)。
+
