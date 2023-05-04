@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: my-font1;
+  src: url('./FZXKJW.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: my-font2;
+  src: url('./LCD2B-1.ttf');
+  font-weight: normal;
+  font-style: normal;
+}

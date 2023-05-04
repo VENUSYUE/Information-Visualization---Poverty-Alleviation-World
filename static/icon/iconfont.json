@@ -1,0 +1,107 @@
+{
+  "id": "2726674",
+  "name": "esri",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18644570",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4922508",
+      "name": "返回",
+      "font_class": "back",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "4784089",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin1",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "6570227",
+      "name": "申请",
+      "font_class": "shenqing",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "18773141",
+      "name": "留言",
+      "font_class": "liuya",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "20384483",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "ec9a",
+      "unicode_decimal": 60570
+    },
+    {
+      "icon_id": "1342616",
+      "name": "三维分析",
+      "font_class": "icon-sanweifenxi",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "10319829",
+      "name": "舆情监控",
+      "font_class": "yuqingjiankong",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "16399003",
+      "name": "图表",
+      "font_class": "tubiao",
+      "unicode": "e85f",
+      "unicode_decimal": 59487
+    },
+    {
+      "icon_id": "16815471",
+      "name": "人员",
+      "font_class": "renyuan",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "3876823",
+      "name": "07 深度学习",
+      "font_class": "shenduxuexi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "3255596",
+      "name": "导出",
+      "font_class": "download",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "10056247",
+      "name": "分析",
+      "font_class": "fenxi",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "15602570",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    }
+  ]
+}
